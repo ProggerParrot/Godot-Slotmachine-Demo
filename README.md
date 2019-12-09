@@ -1,4 +1,4 @@
-# Godot-SlotMachine-Demo
+# Godot-Slotmachine-Demo
 
 Welcome to my Godot slotmachine demo!
 
