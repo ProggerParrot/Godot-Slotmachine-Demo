@@ -10,4 +10,5 @@ Mainy I used the native UI nodes of Godot, and the new spritesheet function!
 I also uploaded a video, where I show you how this thing works. :)
 
 slotmachine demo video : 
+
 https://youtu.be/Wz6DEHNEiYU
